@@ -67,7 +67,7 @@ include('./navbar.php');
     					<td>Introduction</td>';
     				</tr>
     			</tbody>
-    		</table>';
+    		</table>
     	</div>
     </div>
 
