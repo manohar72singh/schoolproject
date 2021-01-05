@@ -53,7 +53,8 @@ box-shadow:10px;"/>
   <img class="card-img-2" src="" alt="Card image cap">
   <div class="card-body">
     <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+    <p class="card-text">Manohar singh</p>
+    <p class="card-text">Manohar singh</p>
     <a href="#" class="btn btn-primary">Go somewhere</a>
   </div>
 </div>
